@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! 👋
+
+**Trabalho com desenvolvimento de sites desde 2002, com centenas de sites criados em WordPress, atuando no dia a dia com HTML, CSS e JavaScript. Grande experiência também em hospedagem de sites e domínios, desde implantação a gerenciamento. Me atualizando nos últimos anos para o React, TypeScript e outros, não para abandonar o WordPress, mas sim somar ferramentas.**
 
 <!--
 **deguirbr/deguirbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
